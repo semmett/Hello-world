@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.245395,
+          40.725099
+        ]
+      },
+      "properties": {
+        "marker-color": "#ff3300",
+        "marker-size": "large",
+        "marker-symbol": "town-hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.261937,
+          40.746242
+        ]
+      },
+      "properties": {
+        "marker-color": "#fe2ec8",
+        "marker-size": "large",
+        "marker-symbol": "heart"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.702325,
+          40.777358
+        ]
+      },
+      "properties": {
+        "marker-color": "#0033cc",
+        "marker-size": "large",
+        "marker-symbol": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.708464,
+          40.66427
+        ]
+      },
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "large",
+        "marker-symbol": "theatre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.794852,
+          40.728224
+        ]
+      },
+      "properties": {
+        "marker-color": "#00ccff",
+        "marker-size": "large",
+        "marker-symbol": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.70864868164062,
+            40.66449372533465
+          ],
+          [
+            -73.24516296386719,
+            40.727486422997785
+          ],
+          [
+            -73.79447937011719,
+            40.72852712420599
+          ],
+          [
+            -73.7017822265625,
+            40.780021490225955
+          ],
+          [
+            -73.26164245605469,
+            40.74829735476797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.70796203613281,
+              40.69625781921317
+            ],
+            [
+              -73.72512817382812,
+              40.68636570811299
+            ],
+            [
+              -73.72169494628906,
+              40.65980593837855
+            ],
+            [
+              -73.69491577148436,
+              40.658764163202925
+            ],
+            [
+              -73.68598937988281,
+              40.684282971281604
+            ],
+            [
+              -73.70796203613281,
+              40.69625781921317
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#99ffff",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.81988525390623,
+              40.65563874006118
+            ],
+            [
+              -73.81988525390623,
+              40.79769722250925
+            ],
+            [
+              -73.22662353515623,
+              40.79769722250925
+            ],
+            [
+              -73.22662353515623,
+              40.65563874006118
+            ],
+            [
+              -73.81988525390623,
+              40.65563874006118
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
